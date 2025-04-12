@@ -40,7 +40,7 @@ jobs:
             .faircamp_cache
           key: ${{ steps.cache-faircamp-restore.outputs.cache-primary-key }}
 
-      - name: Upload static files as artifact
+      - name: Upload .faircamp_build
         id: deployment
         uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
         with:
