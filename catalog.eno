@@ -5,7 +5,7 @@ title: Chez Tritri
 -- synopsis
 -- synopsis
 
-base_url: https://constructions-incongrues.github.io/furrcamp/
+base_url: https://trivoallan.github.io/furrcamp/
 language: fr
 
 embedding: enabled
@@ -15,9 +15,9 @@ opengraph: enabled
 release_download_access: free
 release_extras: separate
 
-> home_image:
->     description="Chez Tritri"
->     file=images/catalog.jpg
+home_image:
+    description="Chez Tritri"
+    file=images/pantagruel.png
 
 link:
     label = Github
