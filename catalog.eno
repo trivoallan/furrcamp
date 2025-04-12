@@ -1,9 +1,8 @@
 > https://simonrepp.com/faircamp/manual/catalog-catalog-eno.html
 
-title: Furrcamp
+title: Chez Tritri
 
 -- synopsis
-Coucou les chiens-chiens !
 -- synopsis
 
 base_url: https://constructions-incongrues.github.io/furrcamp/
@@ -16,17 +15,16 @@ opengraph: enabled
 release_download_access: free
 release_extras: separate
 
-home_image:
-    description="Furrcamp"
-    file=images/catalog.jpg
+> home_image:
+>     description="Chez Tritri"
+>     file=images/catalog.jpg
 
 link:
     label = Github
-    url = https://github.com/constructions-incongrues/furrcamp/
+    url = https://github.com/trivoallan/furrcamp/
 
 > https://simonrepp.com/faircamp/manual/releases-release-eno.html#theme
 theme:
-    base = light
-    background_image = images/pattern.png
+    base = dark
 
 favicon: images/favicon-96x96.png
