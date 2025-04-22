@@ -1,11 +1,11 @@
 > https://simonrepp.com/faircamp/manual/catalog-catalog-eno.html
 
-title: Chez Tritri
+title: Tumultes
 
 -- synopsis
 -- synopsis
 
-base_url: https://trivoallan.github.io/furrcamp/
+base_url: https://trivoallan.github.io/tumultes/
 language: fr
 
 embedding: enabled
@@ -16,21 +16,20 @@ release_download_access: free
 release_extras: separate
 
 home_image:
-    description="Chez Tritri"
+    description="Tumultes"
     file=images/pantagruel.png
 
 link:
     label = Github
-    url = https://github.com/trivoallan/furrcamp/
+    url = https://github.com/trivoallan/tumultes/
 
 > https://simonrepp.com/faircamp/manual/releases-release-eno.html#theme
 theme:
     base = dark
 
-favicon: images/favicon-96x96.png
+favicon: ../images/favicon-96x96.png
 
 faircamp_signature: disabled
-
 
 speed_controls: enabled
 show_support_artists
