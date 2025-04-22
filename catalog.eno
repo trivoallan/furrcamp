@@ -28,3 +28,10 @@ theme:
     base = dark
 
 favicon: images/favicon-96x96.png
+
+faircamp_signature: disabled
+
+
+speed_controls: enabled
+show_support_artists
+label_mode
