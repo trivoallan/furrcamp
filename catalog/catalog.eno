@@ -17,7 +17,7 @@ release_extras: separate
 
 home_image:
     description="Tumultes"
-    file=images/pantagruel.png
+    file=../images/pantagruel.png
 
 link:
     label = Github
